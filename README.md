@@ -10,5 +10,5 @@ A new Flutter project. This project is a starting point for a Flutter applicatio
 
 1. Open VSCode into cloned directory 
     ```shell
-    run debag or press F5
+    run debager or press F5
     ```
