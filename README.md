@@ -8,7 +8,7 @@ A new Flutter project. This project is a starting point for a Flutter applicatio
     git@github.com:thedetukov/flutter-startproject.git
     ```
 
-1. Enter into cloned directory in VSCode
+1. Enter into VSCode
     ```shell
-    cd flutter-application, run debag or press F5
+    run debag or press F5
     ```
